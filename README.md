@@ -1,0 +1,2 @@
+## About this function
+This function can be run to merge two different JSON documents based on a common field. If the common field is missing from any object in the 2nd data array, the function will not run because we are looking for a 1-1 relationship with the common field. 
